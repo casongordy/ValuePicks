@@ -1,3 +1,6 @@
+![valuepicks](https://raw.githubusercontent.com/casongordy/ValuePicks/master/valuepicks.png)
+
+
 # ValuePicks
 Project#1
 Team Name: Cobra Kai
